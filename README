@@ -1,6 +1,0 @@
-input
-	: input files to execute SLiM2
-
-scripts
-	: all scripts used in this study
-	
