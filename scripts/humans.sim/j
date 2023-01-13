@@ -1,0 +1,5 @@
+#!/bin/bash
+
+perl /home/knam/work/life_psrate/script/human.sim.pl
+
+

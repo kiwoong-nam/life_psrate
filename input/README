@@ -1,0 +1,10 @@
+DIRECTORIES
+	humans
+		: input files used to run SLiM2 for Figure 1B
+	input
+		: input files used to run SLiM2 for Figure 1C and 1D (high recombination rate)
+	input2
+		: input files used to run SLiM2 for Figure 1C and 1D (low recombination rate)
+	Bacteria
+		: input files used to run SLiM2 for Figure 2
+
